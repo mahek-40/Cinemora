@@ -1,0 +1,7 @@
+# Minimal, pinned-enough to avoid surprise breaks on cloud platforms
+streamlit>=1.30
+requests>=2.31
+urllib3>=2.0
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
